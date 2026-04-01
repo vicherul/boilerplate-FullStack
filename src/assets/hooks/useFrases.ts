@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import type { Frase, FraseFormData } from '../schemas/fraseSchema'; 
+import type { Frase, FraseFormData } from '../../schemas/fraseSchema'; 
 
 const API_URL = 'https://api-frases23032026.vercel.app/api/frases'
 
